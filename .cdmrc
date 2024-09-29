@@ -1,2 +1,3 @@
 
 terminals: ['echo one', 'echo two', 'echo three']
+run-button: go run main.go
