@@ -1,1 +1,2 @@
 
+terminals: ['echo one', 'echo two', 'echo three']
